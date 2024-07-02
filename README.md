@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mern+stack+web+developer;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hellow+There!;\This+is+Zahed;Mern+stack+web+developer)](https://git.io/typing-svg)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zahed-git&theme=dark)](https://git.io/streak-stats)
 
 <!--
