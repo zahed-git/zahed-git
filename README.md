@@ -1,7 +1,7 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hellow+There!👋;This+Is+Md+Zahed;Front+end+web+developer)](https://git.io/typing-svg)
 <a href="https://www.buymeacoffee.com/zahed-git" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 <p align="left">
 <a href="https://www.linkedin.com/in/abu-zahed-97b39130a/" target="_blank"><img height="30" 
 </p>
