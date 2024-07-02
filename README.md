@@ -3,7 +3,7 @@
 <a href="https://www.buymeacoffee.com/zahed-git" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/abu-zahed-97b39130a/" ><img height="30" 
+<a href="https://www.linkedin.com/in/abhishek-maira/" target="_blank"><img height="30" 
 </p>
 
 <h3>Things I code with</h3>
