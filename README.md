@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahed-git&layout=compact&langs_count=8&card_width=320" />
 </a>
+<a href="https://www.buymeacoffee.com/zahed-git" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=zahed-git&show_icons=true&theme=dark"
