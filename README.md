@@ -1,5 +1,6 @@
 ## Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zahed-git&theme=dark)](https://git.io/streak-stats)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mern+stac+web+developer;Second+line+of+text)](https://git.io/typing-svg)
 <!--
 **zahed-git/zahed-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
