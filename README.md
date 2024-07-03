@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/abu-zahed-97b39130a/" target="_blank"><img height="30" 
 </p>
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abu-zahed-97b39130a/) 
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
